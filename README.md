@@ -1,14 +1,14 @@
 # Water-Level-Detection-by-IOT
 
-#Introduction
+## Introduction
 To monitor liquid levels in a closed container (like a water tank) and report to the user if the liquid level crosses certain min or max thresholds.
 
 
-#Abstract
+## Abstract
 We aim to make a IOT based liquid monitoring system, which uses a depth detection sensor to measure the level of a liquid in a closed container and inform the user when the liquid depth goes below or exceeds certain thresholds which vary from application to application. This notification goes to the user via a mobile application, which communicates with the microcontroller using a network interface like Wifi or Bluetooth. 
 
 
-#Components
+## Components
 The hardware and software requirements are:-
 Depth detection module: These are sensors that measure the levels of liquids in a container. They can have analog outputs with the sensor having a range of depths it can detect or it can have a point level output which will indicate whether or not the substance is above or below a certain sensing point 
 
