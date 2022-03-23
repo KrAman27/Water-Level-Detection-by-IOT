@@ -22,5 +22,5 @@ Jumper cables: Will be used to connect the components
 Flutter(Dart programming language): Flutter is an open-source UI development kit based on Dart programming language. It will be used to build a mobile interface which will interact with the hardware components of our project.
 
 
-* Presentation : 
-* Video Demonstration : 
+## Presentation : 
+## Video Demonstration : 
